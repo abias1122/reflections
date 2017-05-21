@@ -1,0 +1,8 @@
+A repository is created when I initialize a repository. I need to do
+ it so that I'll have a repository to work with.
+
+The staging area is different from the working directory in that not all files
+in the working directory will be in the staging area. A repository doesn't
+contain staging areas, but staging areas become commits to be stored in a repository.
+Staging areas are helpful because you may not want to track the changes of all files
+within your working directory.
