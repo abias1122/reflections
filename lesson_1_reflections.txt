@@ -1,0 +1,16 @@
+Diff helped me spot specifically defects I've injected after making changes to a document.
+
+Having easy access to the entire history of a file makes me more effiecient by removing the need to undo
+changes made that either introdiced more bugs or added functionality you/stakeholders didn't end up wanting after all.
+
+With manual commits, you can guaruntee that the commit will be at a logical breaking point. However, automatic commits 
+can be helpful for forgetful people, or for text files.
+
+Version control systems geared towards code, like git, save multiple fiels in one commit because source files tend to
+depend on one another (e.g. HTML, JS, and CSS files). Systems like Google Drive is geared more towards files that
+lack these contingencies, like text and slide files.
+
+Version control makes me more confident when making potentially project-breaking changes because I can always go back to
+previous versions to pinpoint where the defect was injected.
+
+I want to use Git for the first few Android projects I do.
