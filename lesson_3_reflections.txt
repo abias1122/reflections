@@ -1,3 +1,9 @@
 When would you want to use a remote repository rather than keeping all your work local? 
   If I lose my local work (hard drive failure, careless deletion, etc.), I won't lose
   the rest of my progress.
+
+Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+  I may not want to bring commits other contributers made to the project to my local
+  repository until I make certain commits of my own.
+  

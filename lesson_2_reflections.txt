@@ -6,3 +6,20 @@ in the working directory will be in the staging area. A repository doesn't
 contain staging areas, but staging areas become commits to be stored in a repository.
 Staging areas are helpful because you may not want to track the changes of all files
 within your working directory.
+
+The staging area helps me make sure I only make one commit per logical change
+by helping me manage which files changes made to will be committed.
+
+Branches can help keep my history organized by keping different logical
+groupings of functionality separate.
+
+The diagrams help me visualize the branch structure by making it obvious
+which commits can reach which other commits.
+
+The result of the merge is that all of the changes made in the coins branch were brought
+to the master branch. The diagram uses that representation because commits from both old
+branches are brought into the new head of one of the branches.
+
+Merging commits automatically usually involves less work, but doesn't always 
+know which changes to keep. Manual merging is more work-intensive, but you can
+make sure the right changes are kept.
