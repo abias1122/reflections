@@ -7,3 +7,11 @@ stay up-to-date with your remote repository?
   I may not want to bring commits other contributers made to the project to my local
   repository until I make certain commits of my own.
   
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+  Forks clone a repository from one user's remote repository to make a new remote repository
+  without all the added work of needing to clone to and push from your local machine. This is great
+  if I want to use someone else's code while both giving them credit and making changes that don't
+  affect their repo. Clones involve copying a repository in a more general sense; local to local or
+  remote to local. If someone adds me as a contributor or if I want to have a copy of a recently forked
+  repo on my machine, clone is good. A branch is within a repo and is good for experimental changes and
+  other commits you'd want to keep separate from your main branch.
